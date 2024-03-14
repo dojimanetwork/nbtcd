@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/dojimanetwork/nbtcd/chaincfg/chainhash"
 )
 
 const (

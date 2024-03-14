@@ -5,13 +5,13 @@
 package netsync
 
 import (
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/mempool"
-	"github.com/btcsuite/btcd/peer"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimanetwork/nbtcd/blockchain"
+	"github.com/dojimanetwork/nbtcd/btcutil"
+	"github.com/dojimanetwork/nbtcd/chaincfg"
+	"github.com/dojimanetwork/nbtcd/chaincfg/chainhash"
+	"github.com/dojimanetwork/nbtcd/mempool"
+	"github.com/dojimanetwork/nbtcd/peer"
+	"github.com/dojimanetwork/nbtcd/wire"
 )
 
 // PeerNotifier exposes methods to notify peers of status changes to

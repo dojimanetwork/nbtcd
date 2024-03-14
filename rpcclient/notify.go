@@ -13,10 +13,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/btcsuite/btcd/btcjson"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dojimanetwork/nbtcd/btcjson"
+	"github.com/dojimanetwork/nbtcd/btcutil"
+	"github.com/dojimanetwork/nbtcd/chaincfg/chainhash"
+	"github.com/dojimanetwork/nbtcd/wire"
 )
 
 var (

@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcjson"
-	"github.com/btcsuite/btcd/btcutil"
+	"github.com/dojimanetwork/nbtcd/btcjson"
+	"github.com/dojimanetwork/nbtcd/btcutil"
 )
 
 // TestWalletSvrCmds tests all of the wallet server commands marshal and
